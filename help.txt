@@ -1,0 +1,4 @@
+shotgun app.rb -p 4567
+The -p switch tells shotgun what port to use.
+
+bundle install
